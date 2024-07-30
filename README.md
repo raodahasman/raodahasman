@@ -1,7 +1,7 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Raodah Hasman</h1>
 <h3 align="center">A passionate Data Analyst from Indonesia</h3>
+
+- 🔭 I’m seeking **for a job**
 
 - 🌱 I’m currently learning **Data Analyst and Data Science**
 
