@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raodah Hasman</h1>
+![alt text](https://drive.google.com/file/d/1bblBKpg14_6etmqziQ_5lSRaPJa2e3Hl/view?usp=sharing?raw=true)
 <h3 align="center">A passionate Data Analyst from Indonesia</h3>
 
 - 🔭 I’m seeking **for a job**
